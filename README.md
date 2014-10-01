@@ -1,0 +1,4 @@
+projects
+========
+
+Main project folder
